@@ -1,0 +1,25 @@
+{
+    "id": "48455338",
+    "path": "~/HAD_in_COPD/model.r",
+    "project_path": "model.r",
+    "type": "r_source",
+    "hash": "2026994568",
+    "contents": "",
+    "dirty": false,
+    "created": 1590631083538.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "257,0",
+        "scrollLine": "240",
+        "docOutlineVisible": "1"
+    },
+    "folds": "29|25|35|0|\n",
+    "lastKnownWriteTime": 1590792349,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1590879765740,
+    "read_only": false,
+    "read_only_alternatives": []
+}
